@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CColour_app_2.iOS.app/CColour_app_2.iOS">
+      <BCSymbolMapName>CColour_app_2.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CColour_app_2.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/irvinghe/Desktop/interns/CColour_app_2/CColour_app_2/CColour_app_2.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>CColour_app_2.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/irvinghe/Desktop/interns/CColour_app_2/CColour_app_2/CColour_app_2.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

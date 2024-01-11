@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C4E9979C-5ACD-40C3-AD54-0BD631F035BF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CColour__app__2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D10C44AD-5FA9-42E9-9D4D-24088343C6E1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CColour_app_2/CColour_app_2/MainPage.xaml">
+    <Files>
+      <File FileName="CColour_app_2/CColour_app_2/MainPage.xaml" Line="34" Column="1" />
+      <File FileName="CColour_app_2/CColour_app_2/MainPage.xaml.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CColour_app_2" expanded="True">
+            <Node name="CColour_app_2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_31" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CColour__app__2.Android PreferredExecutionTarget="Android.pixel_5_-_api_31" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

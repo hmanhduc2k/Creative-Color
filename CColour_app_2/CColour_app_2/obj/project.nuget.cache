@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBpybB4OxRJBbhH3P7itBmB38MriAf+Uj54DardXNXZphhaZRucQOVPjTwO/3TLU44DgjKoxfl0cPfF7uzVnSw==",
+  "success": true,
+  "projectFilePath": "G:\\CColour_app_2\\CColour_app_2\\CColour_app_2\\CColour_app_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\65840\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\65840\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\65840\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\65840\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\65840\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "SL43G30LkADNGQ4CwUocuQZJs/+ZRrIKHr234drgYldeOxj3MkMYhTN9mhULFvHbJGRu0qjAi+22Dq+hQt+lmA==",
+  "success": true,
+  "projectFilePath": "G:\\CColour_app_2\\CColour_app_2\\CColour_app_2.iOS\\CColour_app_2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\65840\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\65840\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\65840\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.3 to 1.7.0. Reference the package directly from the project to select a different version. \r\n CColour_app_2.iOS -> CColour_app_2 -> Xamarin.Essentials (>= 1.7.3) \r\n CColour_app_2.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2515 to 5.0.0.2196. Reference the package directly from the project to select a different version. \r\n CColour_app_2.iOS -> CColour_app_2 -> Xamarin.Forms (>= 5.0.0.2515) \r\n CColour_app_2.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

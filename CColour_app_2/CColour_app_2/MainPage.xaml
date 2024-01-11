@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CColour_app_2"
+             x:Class="CColour_app_2.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="CreativeColour" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Select the type of CVD" FontSize="Title" Padding="30,10,30,10"/>
+        <Image Source="{local:ImageResource CColour_app_2.colourwheel.jpg}" Aspect="AspectFit" />
+        <Label Text="Which of the following images match the colour wheel above?" FontSize="16" Padding="30,0,30,0"/>
+        <Grid>
+                <Image Source="{local:ImageResource CColour_app_2.deuteranopia.jpg}" Grid.Row="0" Grid.Column="0"/>
+                
+                <Image Source="{local:ImageResource CColour_app_2.protanopia.jpg}" Grid.Row="2" Grid.Column="0"/>
+
+                <Image Source="{local:ImageResource CColour_app_2.tritanopia.jpg}" Grid.Row="0" Grid.Column="1"/>
+
+                <Image Source="{local:ImageResource CColour_app_2.monochromacy.jpg}" Grid.Row="2" Grid.Column="1"/>
+
+                <CheckBox x:Name="deuCheckBox" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center"/>
+                <CheckBox x:Name="proCheckBox" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center"/>
+                <CheckBox x:Name="triCheckBox" Grid.Row="3" Grid.Column="0" HorizontalOptions="Center"/>
+                <CheckBox x:Name="monCheckBox" Grid.Row="3" Grid.Column="1" HorizontalOptions="Center"/>
+           
+        </Grid>
+        <Button Text="Save"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Clicked="show"
+                BackgroundColor="LightBlue"/>
+
+    </StackLayout>
+
+</ContentPage>
